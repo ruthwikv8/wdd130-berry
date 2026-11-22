@@ -2,7 +2,7 @@
 
 Website for The Stepping-Stones, built for Courtney Berry in WDD 130.
 
-Live site: [GitHub Pages URL]
+Live site: https://ruthwikv8.github.io/wdd130-berry/
 
 Client: Courtney Berry
 Lead developer: Ruthwik Veerapathiran
